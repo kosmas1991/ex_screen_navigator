@@ -1,4 +1,4 @@
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot.png)
 
 # ex_screen_navigator
 
