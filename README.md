@@ -1,3 +1,5 @@
+![Screenshot](screenshot.png)
+
 # ex_screen_navigator
 
 A new Flutter project.
